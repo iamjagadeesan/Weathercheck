@@ -1,4 +1,4 @@
-![favicon](https://github.com/user-attachments/assets/45e5e89a-9de7-4cf1-8be3-9839bc6f8171)
+![favicon](https://github.com/user-attachments/assets/ea14c0df-b1ad-4f07-97a1-37b1e9fe9433)
 
 # Weather Check
 
