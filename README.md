@@ -17,6 +17,9 @@ WeatherCheck is a weather application built with React. It provides real-time we
 
 [View the live demo on GitHub Pages](https://iamjagadeesan.github.io/Weathercheck/)
 
+<img width="1366" height="623" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/f63f3765-b722-493d-acff-60d826868da2" />
+
+
 ## Installation
 
 To run this project locally, follow these steps:
